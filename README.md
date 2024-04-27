@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on supply chain data analytics or any data science project.
 - 📫 How to reach me via email
 - 😄 Pronouns: she/her/it's a girl
-- ⚡ Fun fact: I got inoculated with the passion for Statistics when I was doing my hons programme in Molecular biology at Stellenbosch University.
+- ⚡ Fun fact: I got to know and love statistics through a MolBioHons programme in Molecular biology at Stellenbosch University, Eureka 💡.
 
 <!---
 Nandi366755/Nandi366755 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
