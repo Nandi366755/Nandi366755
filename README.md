@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nandi366755
-- 👀 I’m interested in Supply Chain Data Analytics.
+- 👀 I’m interested in Supply Chain Data Analytics and BI.
 - 🌱 I’m currently learning Statistics and Data science.
 - 💞️ I’m looking to collaborate on supply chain data analytics or any data science project.
 - 📫 I am available at the following address(222366755@tut4life.ac.za). 
